@@ -1,0 +1,40 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foxtrot", "Foxtrot\Foxtrot.csproj", "{7169B413-90EB-4568-8DAF-54249A25D27D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGame.Extended", "..\..\Downloads\MonoGame.Extended-develop\Source\MonoGame.Extended\MonoGame.Extended.csproj", "{1D2D1C93-59AF-4296-8515-4B3B9B00A906}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGame.Extended.Tiled", "..\..\Downloads\MonoGame.Extended-develop\Source\MonoGame.Extended.Tiled\MonoGame.Extended.Tiled.csproj", "{37829CCF-DDCE-4D35-B704-2A67B510DC2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGame.Extended.Graphics", "..\..\Downloads\MonoGame.Extended-develop\Source\MonoGame.Extended.Graphics\MonoGame.Extended.Graphics.csproj", "{021FE2D3-F52C-499B-8436-5CA2409F0D39}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8E3442D9-DDE9-4C42-AE2C-2995E4DA9D26}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7169B413-90EB-4568-8DAF-54249A25D27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7169B413-90EB-4568-8DAF-54249A25D27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7169B413-90EB-4568-8DAF-54249A25D27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7169B413-90EB-4568-8DAF-54249A25D27D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D2D1C93-59AF-4296-8515-4B3B9B00A906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2D1C93-59AF-4296-8515-4B3B9B00A906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D2D1C93-59AF-4296-8515-4B3B9B00A906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D2D1C93-59AF-4296-8515-4B3B9B00A906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37829CCF-DDCE-4D35-B704-2A67B510DC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37829CCF-DDCE-4D35-B704-2A67B510DC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37829CCF-DDCE-4D35-B704-2A67B510DC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37829CCF-DDCE-4D35-B704-2A67B510DC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{021FE2D3-F52C-499B-8436-5CA2409F0D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021FE2D3-F52C-499B-8436-5CA2409F0D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021FE2D3-F52C-499B-8436-5CA2409F0D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021FE2D3-F52C-499B-8436-5CA2409F0D39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

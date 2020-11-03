@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8IGF84DYOrY9DpGMHTVSSf5F2StyO/vUdvYW8FvHxRIud4CBZ6N0gayDMAVKSWwlhnlUycInefPs0sSvkppXLw==",
+  "success": true,
+  "projectFilePath": "/Users/nathanaelshim/Projects/Foxtrot/Foxtrot/Foxtrot.csproj",
+  "expectedPackageFiles": [
+    "/Users/nathanaelshim/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "/Users/nathanaelshim/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "/Users/nathanaelshim/.nuget/packages/monogame.framework.portable/3.7.1.189/monogame.framework.portable.3.7.1.189.nupkg.sha512",
+    "/Users/nathanaelshim/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

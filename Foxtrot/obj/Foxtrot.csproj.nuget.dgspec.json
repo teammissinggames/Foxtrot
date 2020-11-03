@@ -1,0 +1,288 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nathanaelshim/Projects/Foxtrot/Foxtrot/Foxtrot.csproj": {}
+  },
+  "projects": {
+    "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended.Graphics/MonoGame.Extended.Graphics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended.Graphics/MonoGame.Extended.Graphics.csproj",
+        "projectName": "MonoGame.Extended.Graphics",
+        "projectPath": "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended.Graphics/MonoGame.Extended.Graphics.csproj",
+        "packagesPath": "/Users/nathanaelshim/.nuget/packages/",
+        "outputPath": "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended.Graphics/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nathanaelshim/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended/MonoGame.Extended.csproj": {
+                "projectPath": "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended/MonoGame.Extended.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MonoGame.Framework.DesktopGL": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            },
+            "MonoGame.Framework.Portable": {
+              "target": "Package",
+              "version": "[3.7.1.189, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended.Tiled/MonoGame.Extended.Tiled.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended.Tiled/MonoGame.Extended.Tiled.csproj",
+        "projectName": "MonoGame.Extended.Tiled",
+        "projectPath": "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended.Tiled/MonoGame.Extended.Tiled.csproj",
+        "packagesPath": "/Users/nathanaelshim/.nuget/packages/",
+        "outputPath": "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended.Tiled/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nathanaelshim/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended.Graphics/MonoGame.Extended.Graphics.csproj": {
+                "projectPath": "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended.Graphics/MonoGame.Extended.Graphics.csproj"
+              },
+              "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended/MonoGame.Extended.csproj": {
+                "projectPath": "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended/MonoGame.Extended.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MonoGame.Framework.DesktopGL": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended/MonoGame.Extended.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended/MonoGame.Extended.csproj",
+        "projectName": "MonoGame.Extended",
+        "projectPath": "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended/MonoGame.Extended.csproj",
+        "packagesPath": "/Users/nathanaelshim/.nuget/packages/",
+        "outputPath": "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nathanaelshim/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MonoGame.Framework.Content.Pipeline": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            },
+            "MonoGame.Framework.Portable": {
+              "target": "Package",
+              "version": "[3.7.1.189, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nathanaelshim/Projects/Foxtrot/Foxtrot/Foxtrot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nathanaelshim/Projects/Foxtrot/Foxtrot/Foxtrot.csproj",
+        "projectName": "Foxtrot",
+        "projectPath": "/Users/nathanaelshim/Projects/Foxtrot/Foxtrot/Foxtrot.csproj",
+        "packagesPath": "/Users/nathanaelshim/.nuget/packages/",
+        "outputPath": "/Users/nathanaelshim/Projects/Foxtrot/Foxtrot/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nathanaelshim/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended.Graphics/MonoGame.Extended.Graphics.csproj": {
+                "projectPath": "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended.Graphics/MonoGame.Extended.Graphics.csproj"
+              },
+              "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended.Tiled/MonoGame.Extended.Tiled.csproj": {
+                "projectPath": "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended.Tiled/MonoGame.Extended.Tiled.csproj"
+              },
+              "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended/MonoGame.Extended.csproj": {
+                "projectPath": "/Users/nathanaelshim/Downloads/MonoGame.Extended-develop/Source/MonoGame.Extended/MonoGame.Extended.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            },
+            "MonoGame.Framework.DesktopGL": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

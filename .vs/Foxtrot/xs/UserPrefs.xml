@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{7169B413-90EB-4568-8DAF-54249A25D27D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+    <Files>
+      <File FileName="Foxtrot/Managers/AnimationManager.cs" Line="1" Column="1" />
+      <File FileName="Foxtrot/Engine.cs" Line="70" Column="1" />
+      <File FileName="Foxtrot/Sprites/Sprite.cs" />
+      <File FileName="Foxtrot/Sprites/ControllableSprite.cs" />
+      <File FileName="Foxtrot/Models/Animation.cs" Line="1" Column="1" />
+      <File FileName="Foxtrot/Models/Input.cs" Line="1" Column="1" />
+      <File FileName="README.md" Line="4" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Foxtrot" expanded="True" selected="True">
+            <Node name="Solution Items" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Foxtrot PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

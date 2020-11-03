@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/nathanaelshim/Projects/Foxtrot/Foxtrot/Content/CHEF01.png","/Users/nathanaelshim/Projects/Foxtrot/Foxtrot/Content/bin/DesktopGL/Content/CHEF01.xnb","TextureProcessor","Texture2DContent",3912,327765,0.229785
+"/Users/nathanaelshim/Projects/Foxtrot/Foxtrot/Content/FLOOR_TILE_1.png","/Users/nathanaelshim/Projects/Foxtrot/Foxtrot/Content/bin/DesktopGL/Content/FLOOR_TILE_1.xnb","TextureProcessor","Texture2DContent",35759,8294485,0.584654
